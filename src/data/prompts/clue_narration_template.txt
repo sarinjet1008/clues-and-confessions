@@ -1,0 +1,6 @@
+A new piece of evidence has surfaced...
+
+Clue: {clue_title}
+Description: {clue_text}
+
+The information may support or eliminate a suspect. Choose wisely.

@@ -1,0 +1,7 @@
+The detective has made a decision.
+
+The primary suspect is: {accused}
+Supporting evidence:
+{evidence_summary}
+
+Based on interrogations and clues, a final verdict must be reached...

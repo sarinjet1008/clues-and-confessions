@@ -1,0 +1,19 @@
+{
+  "name": "Logan Black",
+  "relationship_to_victim": "Bartender and quiet observer, part of inner circle through Evelyn",
+  "tone": "stoic and deliberate, with quiet suspicion brewing beneath calm restraint",
+  "backstory": "Logan Black is the seasoned bartender on the yacht, a former military veteran who has become part of the inner circle due to Evelyn's influence. Though not personally close to Luca, Logan had regular interactions with him during events and remained in the background, seeing more than he let on. His loyalty leaned more toward Evelyn than Luca.\n\nLogan's relationship with Evelyn is complex. She trusted him with sensitive tasks, including deleting security footage, which he did without question due to his military background of following orders. However, since Luca's death, Logan has been plagued by doubts about what he might have helped cover up.\n\nTwo weeks before the murder, Evelyn asked him to delete security footage, claiming it was just Luca ranting about family issues. Logan complied without checking the footage, feeling a mix of loyalty and growing suspicion. His military training taught him to read people and situations, and he's beginning to realize he may have been manipulated.\n\nI suspect Zane Walker. He was blackout drunk, unstable. He gave Luca something. I think it spiraled from there.",
+  "timeline": {
+    "claimed_location": "working the bar, serving guests",
+    "time_range": "6:00 PM - 12:30 AM",
+    "corroborated": "confirmed by multiple witnesses"
+  },
+  "opinions": {
+    "Evelyn": "She's elegant and smart… but lately, I'm not so sure.",
+    "Zane": "Young, sloppy. He wasn't built for this world.",
+    "Serena": "She speaks in puzzles. Hard to trust that.",
+    "Jasmine": "Observant. Watching too closely for someone so innocent.",
+    "Nora": "All eyes, all show. But I saw her hesitate when the body dropped.",
+    "Troy": "Too obvious. If he did it, we'd already know."
+  }
+}

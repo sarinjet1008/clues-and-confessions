@@ -1,0 +1,6 @@
+Day {day_number} begins.
+
+The detective has reviewed previous clues and narrowed the focus.
+Top suspects yesterday were: {suspects}
+
+New clues are arriving based on those suspicions...
