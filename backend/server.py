@@ -16,6 +16,18 @@ from flask_cors import CORS
 from openai import OpenAI
 from dotenv import load_dotenv
 
+app = Flask(__name__)
+CORS(app, resources={r"/*": {
+    "origins": [
+        os.getenv("FRONTEND_ORIGIN", "http://localhost:5173")
+    ],
+    "supports_credentials": True
+}})
+
+@app.get("/health")
+def health():
+    return jsonify(status="ok"), 200
+
 # Load environment variables from .env file in backend directory
 load_dotenv(dotenv_path=Path(__file__).parent / '.env')
 
