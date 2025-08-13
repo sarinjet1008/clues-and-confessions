@@ -1,6 +1,5 @@
-python-dotenv
 Flask
 flask-cors
-flatted
+python-dotenv
 openai
 gunicorn
