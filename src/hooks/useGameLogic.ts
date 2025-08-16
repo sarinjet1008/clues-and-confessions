@@ -3,7 +3,8 @@ import { GameState, InterrogationEntry, GamePhase } from '../types/game';
 import { suspects } from '../data/suspects';
 
 // API configuration
-const API_BASE_URL = process.env.REACT_APP_API_URL || 'http://localhost:5000';
+const API_BASE_URL = import.meta.env.VITE_API_URL || '';
+
 
 // API functions to communicate with Node.js backend
 const askLLM = async (suspect: string, question: string): Promise<string> => {
